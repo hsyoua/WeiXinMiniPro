@@ -1,0 +1,4 @@
+public class Hello{
+  pulic void static mian (String arg [])
+  System.out.println("Hello World");
+}
